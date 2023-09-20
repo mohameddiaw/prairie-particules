@@ -14,6 +14,11 @@ In this repo you'll find a pre-configured dev enviromnent created using [vite](h
 
 ## Step 0: start the dev server
 
+install the dependencies
+```bash
+npm install
+```
+
 To start the dev server, execute the following command:
 
 ```bash
